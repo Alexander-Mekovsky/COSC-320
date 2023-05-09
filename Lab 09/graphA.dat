@@ -1,0 +1,11 @@
+6
+vertex_A vertex_B vertex_C vertex_D vertex_E vertex_F
+8
+vertex_A vertex_B 1
+vertex_B vertex_C 1
+vertex_C vertex_A 1
+vertex_C vertex_F 1
+vertex_F vertex_C 1
+vertex_A vertex_D 1
+vertex_D vertex_E 1
+vertex_E vertex_A 1
