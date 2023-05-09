@@ -1,0 +1,14 @@
+6
+vertex_A vertex_B vertex_C vertex_D vertex_E vertex_F
+10
+vertex_A vertex_B 5
+vertex_A vertex_F 20
+vertex_A vertex_D 15
+vertex_B vertex_A 5
+vertex_B vertex_C 2
+vertex_C vertex_B 2
+vertex_C vertex_D 7
+vertex_D vertex_F 3
+vertex_E vertex_F 3
+vertex_F vertex_E 3
+
